@@ -55,4 +55,4 @@ jobs:
           app-name: 'AisWebApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_81B12466AE54425ABA25C67A21D4F496 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5438B427D34A49CC9EC30E6613874DC8 }}
